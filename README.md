@@ -1,5 +1,7 @@
 # Obsidian Reminders
 
+**Proof of Concept Only! No support provided**
+
 A node script that looks for tasks in markdown files with this format:  
 
 - [ ] Do a thing #remind 2021-05-05 13:55
